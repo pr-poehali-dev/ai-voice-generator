@@ -55,7 +55,7 @@ export default function Footer() {
               <h1 className="text-[18vw] sm:text-[16vw] lg:text-[14vw] leading-[0.8] mt-4 sm:mt-6 lg:mt-10 text-white font-bold tracking-tight">
                 ПЕЛЬМЕНИ
               </h1>
-              <p className="text-white text-sm sm:text-base">{new Date().getFullYear()} Пельменная</p>
+              <p className="text-white text-sm sm:text-base">{new Date().getFullYear()} Пель и Мень</p>
             </div>
           </div>
         </div>
